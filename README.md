@@ -40,7 +40,7 @@ https://www.geeksforgeeks.org/machine-learning/scipy-curve-fitting/
 ✅ Results
 
 After optimization, the best-fit parameters obtained were:
-
+https://www.desmos.com/calculator/dj4gwjuevg
 𝜃=30∘
 M=0.03
 X=55
